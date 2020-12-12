@@ -27,5 +27,5 @@ for(int i=0;i<n;i++){
 int key;
 cin>>key;
 cout<<binarySearch(arr,n,key)<<endl;
-return ;
+return 0;
 }
